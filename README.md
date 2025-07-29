@@ -28,7 +28,7 @@ Exemplo de estrutura de pastas no repositório:
 
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/IsmaelGamesYT0/NomeDoRepositorioCSharp.git
+   git clone https://github.com/IsmaelGamesYT0/UnityEssentials.git
 
 2. Abra o projeto com o Unity Hub (versão recomendada: 2022.3.62f1 LTS).
 
