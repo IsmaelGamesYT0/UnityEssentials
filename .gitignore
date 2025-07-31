@@ -1,0 +1,38 @@
+[Linha importante: cola isso tudo ↓]
+
+# Unity generated
+[Linha gigante de .gitignore da Unity]
+
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.tmp
+*.userprefs
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+sysinfo.txt
+
+# Build folders
+Build/
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Unity meta
+*.pidb.meta
