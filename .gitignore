@@ -28,6 +28,20 @@ Obj/
 Logs/
 MemoryCaptures/
 
+
+# Pastas Unity que não devem ser versionadas
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+PackageCache/
+PackageCache/
+
+
 # Visual Studio Code
 .vscode/
 
