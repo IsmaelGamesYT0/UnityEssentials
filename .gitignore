@@ -50,3 +50,34 @@ PackageCache/
 
 # Unity meta
 *.pidb.meta
+
+
+
+
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+*.apk
+*.exe
+*.so
+*.dll
+*.meta
+*.log
+
